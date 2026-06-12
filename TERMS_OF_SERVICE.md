@@ -22,10 +22,6 @@ The bot is provided free of charge, "as is", without any guarantee of availabili
 
 We reserve the right to remove the bot from any server or restrict its use at our discretion, for example in case of abuse.
 
-## Privacy
-
-See our [Privacy Policy](./PRIVACY_POLICY.md) for what data is processed and stored.
-
 ## Contact
 
 Questions? Join the [Support Server](https://discord.gg/UM83TMsEGV).
